@@ -1,0 +1,38 @@
+QUICK SORT TRACE
+Partition scheme: Lomuto, last element as pivot
+
+Initial:
+324 125 456 218 102 389 275 147
+
+Partition 1:
+Subarray: 324 125 456 218 102 389 275 147
+Pivot: 147
+Result:
+125 102 147 218 324 389 275 456
+
+Partition 2:
+Subarray: 125 102
+Pivot: 102
+Result:
+102 125
+
+Partition 3:
+Subarray: 218 324 389 275 456
+Pivot: 456
+Result:
+218 324 389 275 456
+
+Partition 4:
+Subarray: 218 324 389 275
+Pivot: 275
+Result:
+218 275 389 324
+
+Partition 5:
+Subarray: 389 324
+Pivot: 324
+Result:
+324 389
+
+Final:
+102 125 147 218 275 324 389 456
