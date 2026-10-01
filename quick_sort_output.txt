@@ -1,0 +1,5 @@
+Original array:
+324 125 456 218 102 389 275 147
+
+Sorted array using Quick Sort:
+102 125 147 218 275 324 389 456
