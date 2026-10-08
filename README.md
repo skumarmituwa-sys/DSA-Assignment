@@ -11,7 +11,7 @@ The assignment implements:
 ## Final sorted sequence
 102, 125, 147, 218, 275, 324, 389, 456
 
-## Repository Contents
+## Repository Content
 - `src/` - C source programs
 - `input/` - input data
 - `output/` - program outputs
